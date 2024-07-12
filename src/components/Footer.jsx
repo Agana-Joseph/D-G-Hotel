@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import { links } from "../data/Links";
-import { footerGalery } from "../data/FooterGallery";
-import { socials } from "../data/Socials";
+import { links } from "../data/links";
+import { footerGalery } from "../data/footerGalery";
+import { socials } from "../data/socials";
 
-// import Logo from "./Logo";
+import Logo from "./Logo";
 
 const Footer = () => {
   return (
