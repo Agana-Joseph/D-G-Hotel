@@ -12,7 +12,7 @@ module.exports = {
         primaryDarker: 'hsl(34, 40%, 45%)',
         darkLighter: 'hsl(213, 6%, 35%)',
         fontClrGrey: '#999999',
-        bgWhite: 'hsl(34, 3%, 85%)',
+        bgWhite: 'hsl(136, 7%, 94%)',
         blackClr: '#101010',
         mediumBlackClr : '#151515',
         lightBlackClr: '#202020'

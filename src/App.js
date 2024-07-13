@@ -12,6 +12,7 @@ import Contact from './pages/Contact'
 //components
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Service from './components/Service'
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path='rooms' element={<Rooms/>}/>
           <Route path='restaurant' element={<Restaurant/>}/>
           <Route path='blog' element={<Blog/>}/>
+          <Route path='service' element={<Service/>}/>
           <Route path='shop' element={<Shop/>}/>
           <Route path='contact' element={<Contact/>}/>
        </Routes>
